@@ -1,0 +1,3 @@
+F -> C
+C -> f C | f B | a B | a d | f a
+B -> B a | B b | c

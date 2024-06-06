@@ -1,0 +1,3 @@
+F -> S
+S -> id = E | while E do S
+E -> E + E | id
